@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Mariana Sortino**
 
-- GitHub: [@marianasortino]()
+- GitHub: [@marianasortino](https://github.com/marianasortino)
 - 
 ## 🤝 Contributing
 
