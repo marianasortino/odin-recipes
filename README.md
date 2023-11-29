@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://marianasortino.github.io/odin-recipes/index.html)
 
 
 ## Getting Started
